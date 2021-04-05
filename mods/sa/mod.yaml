@@ -234,6 +234,10 @@ SoundFormats: Sdf, Wav
 
 SpriteFormats: Ani, Ddf, PngSheet
 
+VideoFormats:
+
+TerrainFormat: DefaultTerrain
+
 SpriteSequenceFormat: DefaultSpriteSequence
 
 ModelSequenceFormat: PlaceholderModelSequence
