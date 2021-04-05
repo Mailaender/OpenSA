@@ -261,6 +261,11 @@ Templates:
 		Size: 2,2
 		Palette: OpenSA
 		Categories: Water
+		AutoConnect@Clear:
+			Type: Clear
+			BorderTypes: Water
+			BorderTransitions: 20, 8, 4, 10, 2, 21, 16, 3
+			Corners: 7, 31, 14, 22
 		Tiles:
 			0: Water
 			1: Water
